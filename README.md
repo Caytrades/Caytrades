@@ -43,6 +43,7 @@
 </div>
 
 ###
+<br/>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nana-kwame-opoku-ababio-7562b8261/" target="_blank">
@@ -53,7 +54,10 @@
 ###
 
 <br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/Caytrades/Caytrades/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Caytrades/count.svg?"  />
+</div>
 
 ###

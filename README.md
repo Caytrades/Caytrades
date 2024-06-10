@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! I'm Cay....Nice to Meet You</h2>
 
 ###
+I'm a seasoned Business Information Technology Specialist with expertise that lies in analyzing businesses and implementing complex business modules, designing and implementing technological solutions, and optimizing system performance to enhance organizational efficiency.
+
+###
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 

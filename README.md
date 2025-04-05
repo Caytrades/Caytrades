@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Cay....Nice to Meet You</h2>
 
 ###
-I'm a seasoned Business Information Technology Specialist with expertise that lies in analyzing businesses and implementing complex business modules, designing and implementing technological solutions, and optimizing system performance to enhance organizational efficiency.Proficient in C#, JavaScript, Typescript, HTML, CSS, Node.js, React, Vue.js, PHP, SQL, and Flutter.
+I'm a seasoned Business Information Technology Specialist with expertise that lies in analyzing businesses and implementing complex business modules, designing and implementing technological solutions, and optimizing system performance to enhance organizational efficiency.Proficient in C#, Typescript, PHP, SQL, Node.js, Next.js, Nuxt.js, Nest.js and Flutter.
 
 ###
 
